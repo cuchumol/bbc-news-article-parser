@@ -9,13 +9,13 @@ This script automatically parses the BBC News main page and saves a list of arti
 ## Installation
 Clone the repository:
    
- git clone https://github.com/cuchumol/bbc-news-scraper.git
- cd bbc-news-scraper
- python3 -m venv .venv
-source .venv/bin/activate   # Linux/macOS
-.venv\Scripts\activate      # Windows
- pip install -r requirements.txt
-
+ git clone https://github.com/cuchumol/bbc-news-scraper.git  
+ cd bbc-news-scraper  
+ python3 -m venv .venv     
+source .venv/bin/activate   # Linux/macOS  
+.venv\Scripts\activate      # Windows  
+ pip install -r requirements.txt  
+  
 ## Usaege
 
 python bbc_scraper.py
